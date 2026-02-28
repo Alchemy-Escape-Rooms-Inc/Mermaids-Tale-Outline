@@ -1,8 +1,10 @@
 # A Mermaid's Tale — Escape Room Outline
 
+**Room Order:** Captain's Quarters → Pirate Ship → Jungle → Ancient Ruins → Monkey Tomb → Mermaid Cove
+
 ---
 
-## 🚢 Pirate Ship
+## ⚓ Captain's Quarters
 
 ### Puzzle 1: Captain's Desk and Mermaid Mirror
 Players locate and unlock the Captain's ornate desk using subtle environmental clues. Inside, they find a mysterious scroll. Removing the scroll triggers a mystical activation of the Mermaid Mirror mounted nearby. The mirror glows and displays an ethereal image of a mermaid pointing toward a glowing symbol on the wall.
@@ -36,6 +38,8 @@ This reinforces the importance of elemental restoration and constellation imager
 **Materials:** Magnetic cuffs, proximity sensors, LED indicators, mirror feedback trigger, Arduino controller.
 
 ---
+
+## 🚢 Pirate Ship
 
 ### Puzzle 3: Sea Horse Dials
 Players find three bronze compasses, each embedded in the ship's walls. Scattered across the room are three seahorse-shaped medallions—each uniquely sculpted and magnetized to fit into one specific compass. Players must insert and align each seahorse to the compass points. When all three are correctly set, the ship's navigation wheel unlocks.
@@ -107,12 +111,17 @@ Players restore a wall carving using driftwood pieces. Correct assembly reveals 
 
 ---
 
-### 🔓 Unlocks Monkey Tomb
-Placing all three totems in the altar triggers wall movement, revealing the tomb and mural.
+## 🏛️ Ancient Ruins
+
+> ⚠️ *Puzzles TBD — section to be developed.*
 
 ---
 
-### Puzzle 4: Hieroglyphic Decoding with Scroll Overlay
+## 🐒 Monkey Tomb
+
+### Puzzle 1: Hieroglyphic Decoding with Scroll Overlay
+Placing all three Monkey Totems in the altar triggers wall movement, revealing the tomb and mural.
+
 Inside the tomb, players see a faded mural with numerous symbols. They discover a torch nearby. Bringing the torch close causes only seven symbols to glow faintly:
 
 - Mermaid
@@ -131,7 +140,7 @@ When the correct sequence is pressed, a **secret wall cabinet opens**, revealing
 
 ---
 
-## 🧜 Mermaid Lagoon (Finale)
+## 🧜 Mermaid Cove (Finale)
 
 ### Puzzle 1: Mermaid's Shell Song
 Players replicate a melody by touching glowing shell panels.
@@ -150,10 +159,10 @@ Trident is placed into a pedestal. Evalee appears, and the chamber transforms wi
 
 | Prop | Acquired | Used |
 |------|----------|------|
-| Scroll (with laser-cut holes) | Captain's Desk | Tomb — aligned over UV mural |
-| Compass Rose Fragment 1 | After Pirate Battle | Ship's mounted map |
-| Compass Rose Fragment 2 | After Rum Puzzle | Ship's mounted map |
-| Monkey Totem 1 | Jungle Puzzle 1 (Sand) | Altar → unlocks tomb |
-| Monkey Totem 2 | Jungle Puzzle 2 (Waterfall) | Altar → unlocks tomb |
-| Monkey Totem 3 | Jungle Puzzle 3 (Driftwood) | Altar → unlocks tomb |
-| Poseidon's Trident | Glyph puzzle in tomb | Mermaid Lagoon Finale |
+| Scroll (with laser-cut holes) | Captain's Quarters — Captain's Desk | Monkey Tomb — aligned over UV mural |
+| Compass Rose Fragment 1 | Pirate Ship — After Cannon Battle | Pirate Ship — Ship's mounted map |
+| Compass Rose Fragment 2 | Pirate Ship — After Rum Puzzle | Pirate Ship — Ship's mounted map |
+| Monkey Totem 1 | Jungle — Symbols in the Sand | Monkey Tomb altar → unlocks tomb |
+| Monkey Totem 2 | Jungle — Waterfall Labyrinth | Monkey Tomb altar → unlocks tomb |
+| Monkey Totem 3 | Jungle — Driftwood Assembly | Monkey Tomb altar → unlocks tomb |
+| Poseidon's Trident | Monkey Tomb — Glyph puzzle | Mermaid Cove Finale |
